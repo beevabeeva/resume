@@ -426,7 +426,7 @@ aside#sidebar h4 {
 article {
     padding: 10px 10px 30px;
 	font-size: 0.95em;
-border-bottom: 1px solid #eee;
+/*border-bottom: 1px solid #eee;*/
  }
 
 article h2 {
